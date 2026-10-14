@@ -1,4 +1,6 @@
+npx expo start
 # Ubuntu AI Agent
+
 
 Autonomous mobile agent for Ubuntu 22.04 server management, GitHub repos, and secure key-based access.
 
