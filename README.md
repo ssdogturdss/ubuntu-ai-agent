@@ -34,5 +34,4 @@ Features: cryptographically secure generation, configurable max uses, revoke, co
 - Full TypeScript strict mode
 - No auth/login screens
 - Zero placeholders or TODOs
-
-Ready to deploy via Expo.
+deploy
